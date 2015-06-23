@@ -1,2 +1,3 @@
 # proyecto
-software contable
+software contable para las artes graficas
+
